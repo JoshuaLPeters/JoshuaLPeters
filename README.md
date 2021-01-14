@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/koopatroopa787" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="koopatroopa787" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/peters-l-joshua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="peters-l-joshua" height="30" width="40" /></a>
+<a href="https://twitch.tv/koopa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="koopa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
