@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! I'm Joshua Peters. Nice to meetchya ^_^b</h1>
-<h3 align="center">A technical career coach from Codeup, full-stack web developer, USAF Veteran, and Partnered Twitch Broadcaster!</h3>
+<h3 align="center">Technical career coach with Codeup, full-stack web developer, USAF Veteran, and Twitch Broadcaster!</h3>
 
 <p align="left"> <a href="https://twitter.com/koopatroopa787" target="blank"><img src="https://img.shields.io/twitter/follow/koopatroopa787?logo=twitter&style=for-the-badge" alt="koopatroopa787" /></a> </p>
 
